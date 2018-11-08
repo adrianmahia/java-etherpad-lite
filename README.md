@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/adrianmahia/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/adrianmahia/java-etherpad-lite)
 Java Etherpad Lite Client
 =========================
 
