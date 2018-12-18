@@ -78,7 +78,6 @@ public class EPLiteClientIntegrationTest {
         
         client.checkToken();
     }
-
     @Test
     public void create_and_delete_group() throws Exception {
         mockServer
